@@ -20,22 +20,26 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Futuro das Inteligências Artificiais Generativas 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este e-book explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+- IA Generativa ChatGPT para roteirização;
+- IA Generativa Leonardo AI para criar a arte visual do e-book;
+- Ferramenta Microsoft Word para edição.
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre IAs Generativas, estruturar o conteúdo e refinar minhas ideias. O "Leonardo AI" foi usado para gerar imagens exclusivas para o nosso e-book. Para concluir, a montagem final foi feita no Microsoft Word, por ser uma ferramenta para edição e formatação de textos e imagens.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa criação de textos e imagens.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+A criação de conteúdos com inteligências artificiais aumenta o escopo de possibilidades de textos e imagens cada vez mais personalizadas, o usuário precisa saber usar prompts que gerem o resultado esperado, caso contrário não conseguirá gerar conteúdo relevante para seu projeto e não desfrutará das capacidades das inteligências artificiais generativas.
 ```
 
 ### Exemplos e Insigths
